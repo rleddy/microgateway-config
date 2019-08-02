@@ -39,3 +39,8 @@ env.sh
 .nyc_output
 tests/env.js
 tools
+tests/checkup.txt
+tests/testthing.txt
+tests/testthing2.txt
+testthing.txt
+testthing2.txt
